@@ -1,6 +1,6 @@
 # CGI-2048
 
-CGI-2048 is an AI program for Game 2048. Developed CGI Lab(http://www.aigames.nctu.edu.tw/) Kun-Hao Yeh, Chao-Chin Liang, Chia-Chuan Chang in 2014~2015
+CGI-2048 is an AI program for Game 2048. Developed by CGI-Lab(http://www.aigames.nctu.edu.tw/) Kun-Hao Yeh, Chao-Chin Liang, Chia-Chuan Chang in 2014~2015
 
 Our algorithm is based on the following two papers:
 [1] Szubert, M. amd Jaskowaski, W., “Temporal Difference Learning of N-tuple Networks for the Game 2048”, IEEE CIG 2014 conference, August 2014.
